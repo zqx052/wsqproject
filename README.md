@@ -1,2 +1,0 @@
-# wsqproject
- test3
